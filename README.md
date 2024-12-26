@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DPHARSHIYA133
 - 👀 I’m interested in building scalable websites
-- 🌱 I’m currently learning djangp,javascript.
+- 🌱 I’m currently learning django,javascript.
 - 😄 Pronouns: "THERE'S ALWAYS A SOLUTION"- just keep debugging
 - ⚡ Fun fact: when i ain't coding, u might caught me singing or dancing (not proffesionally but passionatelt!!!!!!!
 
