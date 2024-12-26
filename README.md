@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @DPHARSHIYA133
-- 👀 I’m interested in building scalable websites
-- 🌱 I’m currently learning django,javascript.
-- 😄 Pronouns: "THERE'S ALWAYS A SOLUTION"- just keep debugging
-- ⚡ Fun fact: when i ain't coding, u might caught me singing or dancing (not proffesionally but passionatelt!!!!!!!
-
-<!---# 💫 About Me:
-ASK ME ABOUT : python,html5,css3 and sql<br>CURRENTLY WORKING ON : js,django<br>MY MOTTO : " THERE'S ALWAYS A SOLUTIONS"-just keep debugging<br>FUN FACT : when i'm not coding ,u might catch me singing or dancing (n't proffesionally but passinately!!!!!!
-
+- 👋 Hi, I’m @DPHARSHIYA133 ,a fullstack developer....
+- 👀 I’m interested in building scalable websites....
+- 🌱 I’m currently learning django,javascript......
+- 😄 Pronouns: "THERE'S ALWAYS A SOLUTION"- just keep debugging............
+- ⚡ Fun fact: when i ain't coding, u might caught me singing or dancing (not profesionally but passionately!!!!!!!
+-  ask me about : python,html5,css3 and sql...........
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/d-p-harshiya-87351a301/) 
@@ -18,9 +15,9 @@ ASK ME ABOUT : python,html5,css3 and sql<br>CURRENTLY WORKING ON : js,django<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DPHARSHIYA133&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DPHARSHIYA133&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=DPHARSHIYA133&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
---->
+
